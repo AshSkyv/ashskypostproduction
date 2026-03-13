@@ -1,0 +1,158 @@
+.header {
+ position: fixed;
+ width: 100%;
+ background-color: #2f2f2f;
+ left: 0;
+ top: 0;
+}
+
+.header img {
+  float: left;
+  object-fit: cover;
+}
+
+body {
+ background-color: #fff;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #2f2f2f;
+}
+
+ul li {
+ float: left;
+ margin: 10px;
+}
+
+ul li a {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20pt;
+ color: #ffffff;
+ text-decoration: none;
+ margin: 0;
+}
+
+#profilepicture {
+ float: left;
+ margin-top: 50px;
+ align-content: center;
+ margin-left: 15%;
+}
+
+#profilepicture img {
+ border-radius: 25%;
+ margin-top: 50px;
+}
+
+#bio {
+ float: left;
+ background-color: #2f2f2f;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 10pt;
+ color:#fff;
+ padding: 10px;
+ width: 50%;
+ align-content: center;
+ margin-top: 100px;
+ margin-left: 40px;
+}
+
+#bio h1{
+ margin: 0;
+ font-size: 20pt;
+}
+
+#editingprocess {
+ background-color: #2f2f2f;
+ float: left;
+ color: #fff;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 10pt;
+ margin-top: 100px;
+ margin-left: 25px;
+ padding: 30px;
+ width: 37%;
+}
+
+#editingprocess h2 {
+ margin: 0;
+ font-size: 15pt;
+}
+
+#softwarelist {
+ float: left;
+ background-color: #2f2f2f;
+ color: #fff;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 10pt;
+ margin-top: 100px;
+ margin-right: 10px;
+ margin-left: 15%;
+ padding-bottom: 0;
+ padding-top: 25px;
+ padding-left: 25px;
+ width: 20%;
+ align-content: center;
+}
+
+#softwarelist h3 {
+ margin: 0;
+ font-size: 15pt;
+}
+
+#softwarelist ul {
+ list-style-type: none;
+ width: 75%;
+}
+
+#softwarelist ul li {
+  display: block;
+  padding-right: 25px;
+  padding-left: 25px;
+  text-decoration: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2f2f2f;
+  color: white;
+  text-align: right;
+  padding-right: 10px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#demoreel {
+ align-content: center;
+ text-align: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 8pt;
+ margin-top: 100px;
+}
+
+#homepagepic {
+ text-align: center;
+ display: block;
+ width: 100%;
+ margin-top: 100px;
+}
+
+#headline {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 17pt;
+ text-align: center;
+ margin-top: 100px;
+}
+
+
+
+
+
+
+
